@@ -67,5 +67,6 @@ class C(SC):
         print(self.scv)
 
 
-
-
+if __name__ == '__main__':
+    a = C()
+    a.m()
